@@ -10,7 +10,7 @@
   "dependencies": {
     "@vue/cli": "^3.6.3",
     "core-js": "^3.6.5",
-    "vue": "^3.0.0-0",
+    "vue": "^2.6.11",
     "vue-form-wizard": "^0.8.4"
   },
   "devDependencies": {
